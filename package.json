@@ -2,8 +2,8 @@
 	"name": "npm-clone",
 	"displayName": "NPM Clone Package",
 	"publisher": "karlito40",
-	"description": "Git clone a npm package easily",
-	"version": "0.0.3",
+	"description": "Easily git clone a npm package",
+	"version": "0.0.4",
 	"icon": "assets/icon.png",
 	"engines": {
 		"vscode": "^1.54.0"
