@@ -6,7 +6,7 @@ This extension ease the code discovery of a npm package.
 
 ## Features
 
-- Add a new command entry "Clone a NPM package" that will clone the requested package inside a `.npm_clone` directory.
+- Add a "Clone a NPM package" command entry that will clone the requested package inside a `.npm_clone` directory.
 
 ![feature X](./assets/npm-clone-preview.gif)
 
@@ -21,7 +21,7 @@ npm view {packageName}
 mkdir {activeWorkspace}/.npm_clone
 cd .npm_clone && git clone {packageView.repository}
 ```
-### 0.0.2
+### 0.0.4
 
 Initial release
 
