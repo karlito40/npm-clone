@@ -3,7 +3,7 @@
 	"displayName": "NPM Clone Package",
 	"publisher": "karlito40",
 	"description": "Git clone a npm package easily",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"icon": "assets/icon.png",
 	"engines": {
 		"vscode": "^1.54.0"

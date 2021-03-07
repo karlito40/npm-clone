@@ -12,7 +12,7 @@ This extension ease the code discovery of a npm package.
 
 _The .npm_clone directory will be create in the active workspace root_
 
-## How does it works ?
+## Under the hood
 
 It's basically just a set of:
 
